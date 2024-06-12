@@ -39,10 +39,6 @@ Before running the application, make sure you have the following installed:
     mvn spring-boot:run
     ```
 
-3. **Access the application:**
-
-   Open your web browser and go to http://localhost:8080 to access the application.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
