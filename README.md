@@ -28,7 +28,7 @@ Before running the application, make sure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Santosasantos/employee-register.git](https://github.com/Hima0X2/CRUD_Spring_Boot)
+    git clone (https://github.com/Hima0X2/CRUD_Spring_Boot)
     ```
 
 2. **Run the application:**
